@@ -4,8 +4,10 @@
 
  what the program does is :
 
- 1\ taking the query your searching on google 
- 2\ Search it for you  
- 3\ open result's links on new tab in your default browser
+1\ taking the query your searching on google 
+ 
+2\ Search it for you  
+ 
+3\ open result's links on new tab in your default browser
 
 ################################ Usefull Isn't it ################################
